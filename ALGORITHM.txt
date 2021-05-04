@@ -1,0 +1,11 @@
+﻿ALGORITHM
+
+STEP 1: Import the necessary libraries
+STEP 2: Extracting the CSV file from the ZipFile
+STEP 3: Using Pandas we are reading the CSV
+STEP 4: We are copying the data and adding them
+STEP 5: Taking only first 6 overs in consideration
+STEP 6: Converting string to panda data frame
+STEP 7: Through looping we are finding the data per ball
+STEP 8: We are printing the final data
+
